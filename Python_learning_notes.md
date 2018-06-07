@@ -1,8 +1,8 @@
-#Python_learning_notes
+## Python_learning_notes
 
-## part 1 collecting the data
+## Part 1 collecting the data
 
-### learning website:
+### Learning website:
 * [博客园](https://www.cnblogs.com/cate/python/) 
 * [菜鸟教程](http://www.runoob.com/python/python-tutorial.html) 
 * [Python中文开发者社区](http://www.pythontab.com/)
@@ -18,9 +18,10 @@
 * [极客学院](http://wiki.jikexueyuan.com/list/python/)
 * [Python最佳实践指南](http://pythonguidecn.readthedocs.io/zh/latest/)
 
-### web 技术教程
+### Web技术教程
 * [W3school](http://www.w3school.com.cn/) Web 技术教程
 * [Bootstrap中文网](http://www.bootcss.com/) 强悍的前端框架
+
 
 ### 爬虫工具列表
 * [爬虫工具列表](https://blog.csdn.net/YLBF_DEV/article/details/51479449) 
@@ -32,6 +33,7 @@
 * [crawlera](https://scrapinghub.com/crawlera) 利用代理IP地址池来做分布式下载
 * [pyspider](http://www.pyspider.cn/) 一个国人编写的强大的网络爬虫系统并带有强大的WebUI
 * [scrapy](https://scrapy.org/)
+* [fake-useragent](https://pypi.org/project/fake-useragent/)
 
 ### Python WebFrameworks
 * [Django](https://www.djangoproject.com/)
@@ -45,26 +47,35 @@
 * [Matplotlib](https://matplotlib.org/)
 * [Seaborn](http://seaborn.pydata.org/) 
 
+### Databases
+* [MySQL](https://www.mysql.com/)
+* [MongoDB](https://www.mongodb.com/)
+* [Redis](https://redis.io/)
+* [Redis中文网](http://www.redis.cn/)
 
-### useful tools
+### Useful tools
 * [faker](https://github.com/joke2k/faker) a Python package that generates fake data
 * [Unofficial Windows Binaries for Python Extension Packages](https://www.lfd.uci.edu/~gohlke/pythonlibs/)
 	非官方的Windows二进制文件的Python扩展包（加利福尼亚大学荧光动力学实验室）
 * [EditThisCookie](http://www.editthiscookie.com/) a cookie manager
 
+
 ### [free-programming-books](https://github.com/crane-yuan/free-programming-books/blob/master/free-programming-books-zh.md)
 
-### some blogs 
+
+### Some blogs 
 * [七夜安全](http://qiyesafe.com/)
 * [州的先生](http://zmister.com/)
 
-### others
+
+### Others
 * [codewars](https://www.codewars.com/)
 * [Jekyll](https://www.jekyll.com.cn/) 将纯文本转化为静态网站和博客
 * [Python packages](https://pypi.org/)
 * [trackerslist](https://github.com/ngosang/trackerslist)
 * [Tracking the Trackers](https://newtrackon.com/)
 * [书伴](https://bookfere.com/)
+
 
 ### markdown在线编辑
 * [DILLINGER](https://dillinger.io/)
@@ -76,6 +87,6 @@
 * [有代理](http://www.youdaili.net/)
 * [西刺代理](http://www.xicidaili.com/)
 
-### interesting websites
+### Useful websites
 * [199IT互联网数据资讯中心](http://www.199it.com/)
 * [大数据导航](http://hao.199it.com/)
