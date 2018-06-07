@@ -30,7 +30,7 @@
 * [火车头采集器](http://www.locoy.com/)
 * [八爪鱼采集器](http://www.locoy.com/) 云采集服务平台
 * [crawlera](https://scrapinghub.com/crawlera) 利用代理IP地址池来做分布式下载
-* [pyspider]http://www.pyspider.cn/) 一个国人编写的强大的网络爬虫系统并带有强大的WebUI
+* [pyspider](http://www.pyspider.cn/) 一个国人编写的强大的网络爬虫系统并带有强大的WebUI
 * [scrapy](https://scrapy.org/)
 
 ### Python WebFrameworks
