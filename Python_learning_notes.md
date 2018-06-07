@@ -1,7 +1,5 @@
 ## Python_learning_notes
 
-## Part 1 collecting the data
-
 ### Learning website:
 * [博客园](https://www.cnblogs.com/cate/python/) 
 * [菜鸟教程](http://www.runoob.com/python/python-tutorial.html) 
@@ -23,17 +21,39 @@
 * [Bootstrap中文网](http://www.bootcss.com/) 强悍的前端框架
 
 
-### 爬虫工具列表
+### 爬虫工具整理
 * [爬虫工具列表](https://blog.csdn.net/YLBF_DEV/article/details/51479449) 
 * [集搜客GooSeeker网页抓取和整理](https://www.gooseeker.com/)
 * [神箭手](http://www.shenjianshou.cn/)
-一个大数据和人工智能的云操作系统,可以在神箭手上快速开发大数据和AI应用，包括爬虫/机器学习/数据清洗/API接口等。
+        一个大数据和人工智能的云操作系统,可以在神箭手上快速开发大数据和AI应用，包括爬虫/机器学习/数据清洗/API接口等。
 * [火车头采集器](http://www.locoy.com/)
 * [八爪鱼采集器](http://www.locoy.com/) 云采集服务平台
 * [crawlera](https://scrapinghub.com/crawlera) 利用代理IP地址池来做分布式下载
 * [pyspider](http://www.pyspider.cn/) 一个国人编写的强大的网络爬虫系统并带有强大的WebUI
 * [scrapy](https://scrapy.org/)
 * [fake-useragent](https://pypi.org/project/fake-useragent/)
+* [scrapy-proxies](https://github.com/aivarsk/scrapy-proxies)
+* [Fiddler](https://www.telerik.com/fiddler)抓包工具
+* [requests中文文档](http://docs.python-requests.org/zh_CN/latest/index.html)
+* [PhantomJS](http://phantomjs.org/) （暂停开发）
+
+
+#### [Selenium](https://www.seleniumhq.org/) 自动化测试工具
+* [Selenium Python 文档](http://selenium-python-docs-zh.readthedocs.io/zh_CN/latest/)
+* [Selenium with Python](http://selenium-python.readthedocs.io/index.html)
+* [Python bindings for Selenium](https://pypi.org/project/selenium/)
+
+
+#### Browser Drivers(Selenium requires a driver to interface with the chosen browser)
+* [Firefox](https://github.com/mozilla/geckodriver/releases)
+* [Chrome](https://sites.google.com/a/chromium.org/chromedriver/downloads)
+* [Edge](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/)
+* [Safari](https://webkit.org/blog/6900/webdriver-support-in-safari-10/)
+
+
+#### 验证码识别
+* [tesseract-ocr](https://github.com/tesseract-ocr/tesseract)
+* [云打码](http://www.yundama.com/) 在线打码平台
 
 ### Python WebFrameworks
 * [Django](https://www.djangoproject.com/)
