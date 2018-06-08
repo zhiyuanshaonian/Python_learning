@@ -15,6 +15,8 @@
 * [Python资源大全中文版](https://github.com/jobbole/awesome-python-cn)
 * [极客学院](http://wiki.jikexueyuan.com/list/python/)
 * [Python最佳实践指南](http://pythonguidecn.readthedocs.io/zh/latest/)
+* [Awesome Python](https://awesome-python.com/)
+* [Python 3.6.5 documentation](https://docs.python.org/3/)
 
 ### Web技术教程
 * [W3school](http://www.w3school.com.cn/) Web 技术教程
@@ -35,7 +37,7 @@
 * [scrapy-proxies](https://github.com/aivarsk/scrapy-proxies)
 * [Fiddler](https://www.telerik.com/fiddler)抓包工具
 * [requests中文文档](http://docs.python-requests.org/zh_CN/latest/index.html)
-* [PhantomJS](http://phantomjs.org/) （暂停开发）
+* [PhantomJS](http://phantomjs.org/) （无界面浏览器 多进程下性能会严重下降）（暂停开发）
 
 
 #### [Selenium](https://www.seleniumhq.org/) 自动化测试工具
@@ -55,10 +57,12 @@
 * [tesseract-ocr](https://github.com/tesseract-ocr/tesseract)
 * [云打码](http://www.yundama.com/) 在线打码平台
 
+
 ### Python WebFrameworks
 * [Django](https://www.djangoproject.com/)
 * [Tornado](http://www.tornadoweb.org/en/stable/)
 * [Flask](http://flask.pocoo.org/)
+
 
 ### Data Analysis
 * [NumPy](http://www.numpy.org/)
@@ -67,11 +71,20 @@
 * [Matplotlib](https://matplotlib.org/)
 * [Seaborn](http://seaborn.pydata.org/) 
 
+
 ### Databases
 * [MySQL](https://www.mysql.com/)
 * [MongoDB](https://www.mongodb.com/)
 * [Redis](https://redis.io/)
 * [Redis中文网](http://www.redis.cn/)
+* [phpMyAdmin](https://www.phpmyadmin.net/)(MySQL的数据库管理工具)
+* [Navicat](https://www.navicat.com/en/products)
+* [adminMongo](https://adminmongo.markmoffat.com/)
+* [Robo 3T](https://robomongo.org/)
+* [NoSQLmanager](https://www.mongodbmanager.com/)
+* [MongoDB中文社区](http://mongoing.com/)
+* [RedisDesktopManager](https://github.com/uglide/RedisDesktopManager)
+
 
 ### Useful tools
 * [faker](https://github.com/joke2k/faker) a Python package that generates fake data
@@ -81,6 +94,8 @@
 
 
 ### [free-programming-books](https://github.com/crane-yuan/free-programming-books/blob/master/free-programming-books-zh.md)
+
+
 
 
 ### Some blogs 
@@ -101,12 +116,15 @@
 * [DILLINGER](https://dillinger.io/)
 * [MaHua](http://mahua.jser.me/)
 
+
 ### 一些代理网站
 * [快代理](https://www.kuaidaili.com/)
 * [66代理](http://www.66ip.cn/)
 * [有代理](http://www.youdaili.net/)
 * [西刺代理](http://www.xicidaili.com/)
 
+
 ### Useful websites
 * [199IT互联网数据资讯中心](http://www.199it.com/)
 * [大数据导航](http://hao.199it.com/)
+* [Docker](http://www.docker.org.cn/index.html)
