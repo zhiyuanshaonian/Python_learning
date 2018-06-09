@@ -91,6 +91,7 @@
 * [Unofficial Windows Binaries for Python Extension Packages](https://www.lfd.uci.edu/~gohlke/pythonlibs/)
 	非官方的Windows二进制文件的Python扩展包（加利福尼亚大学荧光动力学实验室）
 * [EditThisCookie](http://www.editthiscookie.com/) a cookie manager
+* [cmder](http://cmder.net/)
 
 
 ### [free-programming-books](https://github.com/crane-yuan/free-programming-books/blob/master/free-programming-books-zh.md)
