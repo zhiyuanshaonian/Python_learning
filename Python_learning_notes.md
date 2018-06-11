@@ -17,6 +17,9 @@
 * [Python最佳实践指南](http://pythonguidecn.readthedocs.io/zh/latest/)
 * [Awesome Python](https://awesome-python.com/)
 * [Python 3.6.5 documentation](https://docs.python.org/3/)
+* [stackoverflow](https://stackoverflow.com/)
+* [脚本之家]（https://www.jb51.net/）
+
 
 ### Web技术教程
 * [W3school](http://www.w3school.com.cn/) Web 技术教程
@@ -92,11 +95,15 @@
 	非官方的Windows二进制文件的Python扩展包（加利福尼亚大学荧光动力学实验室）
 * [EditThisCookie](http://www.editthiscookie.com/) a cookie manager
 * [cmder](http://cmder.net/)
+* [Memcache](http://memcached.org/)(分布式内存对象缓存系统)
+* [scrapy-splash](https://github.com/scrapy-plugins/scrapy-splash)
+* [Splinter](http://splinter-docs-zh-cn.readthedocs.io/zh/latest/index.html)Splinter 是用 Python 开发的一个开源web自动化测试的工具集。 它可以帮你自动化浏览器的行为，比如浏览 URLs 并和页面进行交互。
 
 
 ### [free-programming-books](https://github.com/crane-yuan/free-programming-books/blob/master/free-programming-books-zh.md)
 
-
+### 数据可视化工具
+* [echarts](http://echarts.baidu.com/)
 
 
 ### Some blogs 
