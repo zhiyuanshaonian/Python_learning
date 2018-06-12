@@ -18,7 +18,7 @@
 * [Awesome Python](https://awesome-python.com/)
 * [Python 3.6.5 documentation](https://docs.python.org/3/)
 * [stackoverflow](https://stackoverflow.com/)
-* [脚本之家]（https://www.jb51.net/）
+* [脚本之家](https://www.jb51.net/)
 
 
 ### Web技术教程
