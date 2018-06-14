@@ -19,6 +19,7 @@
 * [Python 3.6.5 documentation](https://docs.python.org/3/)
 * [stackoverflow](https://stackoverflow.com/)
 * [脚本之家](https://www.jb51.net/)
+* [51CTO博客](http://blog.51cto.com/)
 
 
 ### Web技术教程
@@ -33,6 +34,7 @@
         一个大数据和人工智能的云操作系统,可以在神箭手上快速开发大数据和AI应用，包括爬虫/机器学习/数据清洗/API接口等。
 * [火车头采集器](http://www.locoy.com/)
 * [八爪鱼采集器](http://www.locoy.com/) 云采集服务平台
+* [awesome-crawler](https://github.com/BruceDone/awesome-crawler) (A collection of awesome web crawler,spider in different languages)
 * [crawlera](https://scrapinghub.com/crawlera) 利用代理IP地址池来做分布式下载
 * [pyspider](http://www.pyspider.cn/) 一个国人编写的强大的网络爬虫系统并带有强大的WebUI
 * [scrapy](https://scrapy.org/)
@@ -41,7 +43,7 @@
 * [Fiddler](https://www.telerik.com/fiddler)抓包工具
 * [requests中文文档](http://docs.python-requests.org/zh_CN/latest/index.html)
 * [PhantomJS](http://phantomjs.org/) （无界面浏览器 多进程下性能会严重下降）（暂停开发）
-
+* [WebMagic](http://webmagic.io/docs/zh/)
 
 #### [Selenium](https://www.seleniumhq.org/) 自动化测试工具
 * [Selenium Python 文档](http://selenium-python-docs-zh.readthedocs.io/zh_CN/latest/)
@@ -101,13 +103,22 @@
 * [scrapy-redis](https://github.com/rmax/scrapy-redis)
 * [haipproxy](https://github.com/SpiderClub/haipproxy)IP代理池
 * [smart_login](https://github.com/SpiderClub/smart_login)
+* [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata)
+* [Natural Language Toolkit (NLTK)](https://github.com/nltk/nltk)
+* [awesome-javascript](https://github.com/sorrycc/awesome-javascript)
+* [youtube-dl](https://github.com/rg3/youtube-dl) (Command-line program to download videos from YouTube.com and other video sites)
+* [you-get](https://you-get.org/) (a tiny command-line utility to download media contents (videos, audios, images) from the Web)
+* [XAMPP](http://www.xampps.com/)(PHP开发环境 Apache发行版，其中包含MySQL、PHP和Perl)
 
 
 ### [free-programming-books](https://github.com/crane-yuan/free-programming-books/blob/master/free-programming-books-zh.md)
 
+### [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
+
+
 ### 数据可视化工具
 * [echarts](http://echarts.baidu.com/)
-
+* [matplotlib](https://matplotlib.org/)
 
 ### Some blogs 
 * [七夜安全](http://qiyesafe.com/)
