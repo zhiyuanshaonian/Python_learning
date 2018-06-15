@@ -109,7 +109,13 @@
 * [youtube-dl](https://github.com/rg3/youtube-dl) (Command-line program to download videos from YouTube.com and other video sites)
 * [you-get](https://you-get.org/) (a tiny command-line utility to download media contents (videos, audios, images) from the Web)
 * [XAMPP](http://www.xampps.com/)(PHP开发环境 Apache发行版，其中包含MySQL、PHP和Perl)
-
+* [Python Tutor](http://www.pythontutor.com)
+* [IPython](https://ipython.org/)
+* [Jupyter Notebook](http://jupyter.org/)
+* [Anaconda](https://www.anaconda.com/)
+* [Sublime Text 3](https://www.sublimetext.com/3)
+* [Fabric](http://www.fabfile.org/)
+* [Virtualenv](https://pypi.org/project/virtualenv/)
 
 ### [free-programming-books](https://github.com/crane-yuan/free-programming-books/blob/master/free-programming-books-zh.md)
 
