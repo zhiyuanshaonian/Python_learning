@@ -75,6 +75,8 @@
 * [Pandas](http://pandas.pydata.org/)
 * [Matplotlib](https://matplotlib.org/)
 * [Seaborn](http://seaborn.pydata.org/) 
+* [pyecharts](http://pyecharts.org/#/)(封装百度开源图表库echarts的包)
+* [seaborn](http://seaborn.pydata.org/)
 
 
 ### Databases
@@ -86,10 +88,11 @@
 * [Navicat](https://www.navicat.com/en/products)
 * [adminMongo](https://adminmongo.markmoffat.com/)
 * [Robo 3T](https://robomongo.org/)
+* [Mongo Plugin](http://plugins.jetbrains.com/plugin/7141-mongo-plugin)(Pycharm中管理MongoDB)
 * [NoSQLmanager](https://www.mongodbmanager.com/)
 * [MongoDB中文社区](http://mongoing.com/)
 * [RedisDesktopManager](https://github.com/uglide/RedisDesktopManager)
-
+* [Nosqlclient](https://github.com/nosqlclient/nosqlclient)
 
 ### Useful tools
 * [faker](https://github.com/joke2k/faker) a Python package that generates fake data
@@ -114,6 +117,7 @@
 * [Jupyter Notebook](http://jupyter.org/)
 * [Anaconda](https://www.anaconda.com/)
 * [Sublime Text 3](https://www.sublimetext.com/3)
+* [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows)
 * [Fabric](http://www.fabfile.org/)
 * [Virtualenv](https://pypi.org/project/virtualenv/)
 
