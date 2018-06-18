@@ -44,6 +44,8 @@
 * [requests中文文档](http://docs.python-requests.org/zh_CN/latest/index.html)
 * [PhantomJS](http://phantomjs.org/) （无界面浏览器 多进程下性能会严重下降）（暂停开发）
 * [WebMagic](http://webmagic.io/docs/zh/)
+* [python-goose](https://github.com/grangier/python-goose) HTML内容/文章提取
+* [Portia](https://github.com/scrapinghub/portia) 可视化爬虫工具
 
 #### [Selenium](https://www.seleniumhq.org/) 自动化测试工具
 * [Selenium Python 文档](http://selenium-python-docs-zh.readthedocs.io/zh_CN/latest/)
