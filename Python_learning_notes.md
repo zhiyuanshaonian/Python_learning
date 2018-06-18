@@ -104,7 +104,7 @@
 * [cmder](http://cmder.net/)
 * [Memcache](http://memcached.org/)(分布式内存对象缓存系统)
 * [scrapy-splash](https://github.com/scrapy-plugins/scrapy-splash)
-* [Splinter](http://splinter-docs-zh-cn.readthedocs.io/zh/latest/index.html)Splinter 是用 Python 开发的一个开源web自动化测试的工具集。 它可以帮你自动化浏览器的行为，比如浏览 URLs 并和页面进行交互。
+* [Splinter](http://splinter-docs-zh-cn.readthedocs.io/zh/latest/index.html) 用 Python 开发的一个开源web自动化测试的工具集。 它可以帮你自动化浏览器的行为，比如浏览 URLs 并和页面进行交互。
 * [scrapy-redis](https://github.com/rmax/scrapy-redis)
 * [haipproxy](https://github.com/SpiderClub/haipproxy)IP代理池
 * [smart_login](https://github.com/SpiderClub/smart_login)
