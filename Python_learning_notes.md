@@ -21,6 +21,7 @@
 * [脚本之家](https://www.jb51.net/)
 * [51CTO博客](http://blog.51cto.com/)
 * [CSDN](https://www.csdn.net/)
+* [The Hitchhiker’s Guide to Python](http://docs.python-guide.org/en/latest/)
 
 ### Web技术教程
 * [W3school](http://www.w3school.com.cn/) Web 技术教程
@@ -42,6 +43,7 @@
 * [scrapy-proxies](https://github.com/aivarsk/scrapy-proxies)
 * [Fiddler](https://www.telerik.com/fiddler)抓包工具
 * [requests中文文档](http://docs.python-requests.org/zh_CN/latest/index.html)
+* [requests-html](http://html.python-requests.org/)(解析HTML文档，基于PyQuery,Requests,lxml等库进行了二次封装)
 * [PhantomJS](http://phantomjs.org/) （无界面浏览器 多进程下性能会严重下降）（暂停开发）
 * [WebMagic](http://webmagic.io/docs/zh/)
 * [python-goose](https://github.com/grangier/python-goose) HTML内容/文章提取
@@ -86,6 +88,7 @@
 * [MongoDB](https://www.mongodb.com/)
 * [Redis](https://redis.io/)
 * [Redis中文网](http://www.redis.cn/)
+* [redis-py](https://github.com/andymccurdy/redis-py)(Redis的Python客户端)
 * [phpMyAdmin](https://www.phpmyadmin.net/)(MySQL的数据库管理工具)
 * [Navicat](https://www.navicat.com/en/products)
 * [adminMongo](https://adminmongo.markmoffat.com/)
@@ -93,6 +96,7 @@
 * [Mongo Plugin](http://plugins.jetbrains.com/plugin/7141-mongo-plugin)(Pycharm中管理MongoDB)
 * [NoSQLmanager](https://www.mongodbmanager.com/)
 * [MongoDB中文社区](http://mongoing.com/)
+* [PyMongo](https://docs.mongodb.com/ecosystem/drivers/python/)(MongoDB的官方Python客户端)
 * [RedisDesktopManager](https://github.com/uglide/RedisDesktopManager)
 * [Nosqlclient](https://github.com/nosqlclient/nosqlclient)
 
