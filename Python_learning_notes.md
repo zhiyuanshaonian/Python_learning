@@ -139,7 +139,8 @@
 ### Some blogs 
 * [七夜安全](http://qiyesafe.com/)
 * [州的先生](http://zmister.com/)
-
+* [静觅](https://cuiqingcai.com/)
+* [Planet Python](http://planetpython.org/)(Python资讯聚合网站)
 
 ### Others
 * [codewars](https://www.codewars.com/)
