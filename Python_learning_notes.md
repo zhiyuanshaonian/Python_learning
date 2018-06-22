@@ -22,19 +22,22 @@
 * [51CTO博客](http://blog.51cto.com/)
 * [CSDN](https://www.csdn.net/)
 * [The Hitchhiker’s Guide to Python](http://docs.python-guide.org/en/latest/)
+* [Python版数据结构和算法](https://github.com/keon/algorithms/blob/master/README_CN.md)
+* [python-patterns](https://github.com/faif/python-patterns)
+* [wtfpython](https://github.com/satwikkansal/wtfpython)(一个有趣又鲜为人知的Python代码片段集合)
+* [V2EX](https://www.v2ex.com/)
 
 ### Web技术教程
 * [W3school](http://www.w3school.com.cn/) Web 技术教程
 * [Bootstrap中文网](http://www.bootcss.com/) 强悍的前端框架
 
-
 ### 爬虫工具整理
 * [爬虫工具列表](https://blog.csdn.net/YLBF_DEV/article/details/51479449) 
-* [集搜客GooSeeker网页抓取和整理](https://www.gooseeker.com/)
+* [集搜客GooSeeker](https://www.gooseeker.com/)
 * [神箭手](http://www.shenjianshou.cn/)
         一个大数据和人工智能的云操作系统,可以在神箭手上快速开发大数据和AI应用，包括爬虫/机器学习/数据清洗/API接口等。
 * [火车头采集器](http://www.locoy.com/)
-* [八爪鱼采集器](http://www.locoy.com/) 云采集服务平台
+* [八爪鱼采集器](http://www.bazhuayu.com/) 云采集服务平台
 * [awesome-crawler](https://github.com/BruceDone/awesome-crawler) (A collection of awesome web crawler,spider in different languages)
 * [crawlera](https://scrapinghub.com/crawlera) 利用代理IP地址池来做分布式下载
 * [pyspider](http://www.pyspider.cn/) 一个国人编写的强大的网络爬虫系统并带有强大的WebUI
@@ -69,8 +72,8 @@
 
 ### Python WebFrameworks
 * [Django](https://www.djangoproject.com/)
-* [Tornado](http://www.tornadoweb.org/en/stable/)
 * [Flask](http://flask.pocoo.org/)
+* [Pyramid](https://github.com/Pylons/pyramid)
 
 
 ### Data Analysis
@@ -126,6 +129,7 @@
 * [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows)
 * [Fabric](http://www.fabfile.org/)
 * [Virtualenv](https://pypi.org/project/virtualenv/)
+* [httpie](https://github.com/jakubroztocil/httpie)(一个 HTTP 的命令行客户端，目标是让 CLI 和 web 服务之间的交互尽可能的人性化,可用于与 HTTP 服务器做测试、调试和常规交互。)
 
 ### [free-programming-books](https://github.com/crane-yuan/free-programming-books/blob/master/free-programming-books-zh.md)
 
@@ -150,6 +154,9 @@
 * [Tracking the Trackers](https://newtrackon.com/)
 * [书伴](https://bookfere.com/)
 
+### Machine Learning
+* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
+* [TensorFlow](https://github.com/tensorflow/tensorflow)
 
 ### markdown在线编辑
 * [DILLINGER](https://dillinger.io/)
