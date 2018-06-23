@@ -131,6 +131,10 @@
 * [Virtualenv](https://pypi.org/project/virtualenv/)
 * [httpie](https://github.com/jakubroztocil/httpie)(一个 HTTP 的命令行客户端，目标是让 CLI 和 web 服务之间的交互尽可能的人性化,可用于与 HTTP 服务器做测试、调试和常规交互。)
 
+* [Xpath Helper](https://chrome.google.com/webstore/detail/xpath-helper/hgimnogjllphhhkhlmebbmlgjoejdpjl?hl=zh-CN)(Chrome插件用于xpath调试)
+* [Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif?hl=zh-CN)(Chrome插件管理和切换多个代理设置)
+
+
 ### [free-programming-books](https://github.com/crane-yuan/free-programming-books/blob/master/free-programming-books-zh.md)
 
 ### [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
