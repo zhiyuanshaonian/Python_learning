@@ -45,6 +45,8 @@
 * [fake-useragent](https://pypi.org/project/fake-useragent/)
 * [scrapy-proxies](https://github.com/aivarsk/scrapy-proxies)
 * [Fiddler](https://www.telerik.com/fiddler)抓包工具
+* [mitmproxy](https://www.mitmproxy.org/)
+* [Charles](https://www.charlesproxy.com/)
 * [requests中文文档](http://docs.python-requests.org/zh_CN/latest/index.html)
 * [requests-html](http://html.python-requests.org/)(解析HTML文档，基于PyQuery,Requests,lxml等库进行了二次封装)
 * [PhantomJS](http://phantomjs.org/) （无界面浏览器 多进程下性能会严重下降）（暂停开发）
