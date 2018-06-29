@@ -165,6 +165,8 @@
 * [trackerslist](https://github.com/ngosang/trackerslist)
 * [Tracking the Trackers](https://newtrackon.com/)
 * [书伴](https://bookfere.com/)
+* [深度开源](http://www.open-open.com/)
+
 
 ### Machine Learning
 * [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
