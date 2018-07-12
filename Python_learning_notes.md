@@ -46,7 +46,7 @@
 * [scrapy-proxies](https://github.com/aivarsk/scrapy-proxies)
 * [requests中文文档](http://docs.python-requests.org/zh_CN/latest/index.html)
 * [requests-html](http://html.python-requests.org/) 解析HTML文档，基于PyQuery,Requests,lxml等库进行了二次封装
-* [PhantomJS](http://phantomjs.org/) 无界面浏览器 多进程下性能会严重下降
+* [PhantomJS](http://phantomjs.org/) 无界面浏览器 
 * [WebMagic](http://webmagic.io/docs/zh/)
 * [python-goose](https://github.com/grangier/python-goose) HTML内容/文章提取
 * [Portia](https://github.com/scrapinghub/portia) 可视化爬虫工具
