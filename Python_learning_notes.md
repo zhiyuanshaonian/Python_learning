@@ -42,12 +42,12 @@
 * [awesome-crawler](https://github.com/BruceDone/awesome-crawler) (A collection of awesome web crawler,spider in different languages)
 * [crawlera](https://scrapinghub.com/crawlera) 利用代理IP地址池来做分布式下载
 * [pyspider](http://www.pyspider.cn/) 一个国人编写的强大的网络爬虫系统并带有强大的WebUI
-* [scrapy](https://scrapy.org/)
-* [fake-useragent](https://pypi.org/project/fake-useragent/)
+* [scrapy](https://scrapy.org/)scrapy官网
+* [fake-useragent](https://pypi.org/project/fake-useragent/)随机生成各种UserAgent的Python库
 * [scrapy-proxies](https://github.com/aivarsk/scrapy-proxies)
 * [requests中文文档](http://docs.python-requests.org/zh_CN/latest/index.html)
 * [requests-html](http://html.python-requests.org/)(解析HTML文档，基于PyQuery,Requests,lxml等库进行了二次封装)
-* [PhantomJS](http://phantomjs.org/) （无界面浏览器 多进程下性能会严重下降）（暂停开发）
+* [PhantomJS](http://phantomjs.org/) （无界面浏览器 多进程下性能会严重下降) 
 * [WebMagic](http://webmagic.io/docs/zh/)
 * [python-goose](https://github.com/grangier/python-goose) HTML内容/文章提取
 * [Portia](https://github.com/scrapinghub/portia) 可视化爬虫工具
@@ -110,13 +110,14 @@
 * [PyMongo](https://docs.mongodb.com/ecosystem/drivers/python/)(MongoDB的官方Python客户端)
 * [RedisDesktopManager](https://github.com/uglide/RedisDesktopManager)
 * [Nosqlclient](https://github.com/nosqlclient/nosqlclient)
+* [Redis命令参考](http://redisdoc.com/)
 
 ### Useful tools
 * [faker](https://github.com/joke2k/faker) a Python package that generates fake data
 * [Unofficial Windows Binaries for Python Extension Packages](https://www.lfd.uci.edu/~gohlke/pythonlibs/)
 	非官方的Windows二进制文件的Python扩展包（加利福尼亚大学荧光动力学实验室）
 * [EditThisCookie](http://www.editthiscookie.com/) a cookie manager
-* [cmder](http://cmder.net/)
+* [cmder](http://cmder.net/)一款Windows环境下非常简洁美观易用的cmd替代者，它是一个跨平台的命令行增强工具，可以集成windows batch, power shell, git, linux bash等多种命令行于一体，支持了大部分的Linux命令
 * [Memcache](http://memcached.org/)(分布式内存对象缓存系统)
 * [scrapy-splash](https://github.com/scrapy-plugins/scrapy-splash)
 * [Splinter](http://splinter-docs-zh-cn.readthedocs.io/zh/latest/index.html) 用 Python 开发的一个开源web自动化测试的工具集。 它可以帮你自动化浏览器的行为，比如浏览 URLs 并和页面进行交互。
@@ -141,6 +142,7 @@
 
 * [Xpath Helper](https://chrome.google.com/webstore/detail/xpath-helper/hgimnogjllphhhkhlmebbmlgjoejdpjl?hl=zh-CN)(Chrome插件用于xpath调试)
 * [Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif?hl=zh-CN)(Chrome插件管理和切换多个代理设置)
+* [pipenv](https://pypi.org/project/pipenv/)(为项目建立虚拟环境并管理虚拟环境中的第三方模块)
 
 
 ### [free-programming-books](https://github.com/crane-yuan/free-programming-books/blob/master/free-programming-books-zh.md)
